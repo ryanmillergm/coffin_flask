@@ -17,9 +17,9 @@
  
  Enter
 
- Python --version to check version
+ Python --version (to check version)
 
- python filename to run a python file
+ python filename (to run a python file)
 
  Installing Flask
 
