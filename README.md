@@ -12,7 +12,9 @@
  Alias python=python3 <-- inside bash profile add this
 
  Control x to close
+ 
  Y for yes
+ 
  Enter
 
  Python --version to check version
