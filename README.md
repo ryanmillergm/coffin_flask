@@ -30,7 +30,8 @@
  mkdir myproject
  cd myproject python -m venv venv  <—this is the virtual machine you must do everything through!
 
-
+ Activate the environment:
+ 
  . venv/bin/activate
 
  pip install Flask
