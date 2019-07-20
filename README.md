@@ -14,7 +14,7 @@
 ### Y for yes
 ### Enter
 
-### Python —version to check version
+ Python --version to check version
 
 ### python filename to run a python file
 
