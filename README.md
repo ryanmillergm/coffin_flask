@@ -35,3 +35,10 @@
  . venv/bin/activate
 
  pip install Flask
+ 
+ 
+ Run the app:
+
+ $ python app.py
+ And you should see your basic “Hello world” app in action on  http://localhost:5000/. Kill the server when done.
+
