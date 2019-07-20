@@ -8,7 +8,8 @@
  $ nano ~/.bash_profile
 
  Go to the very bottom and create an alias
- Alias python=python3
+ 
+ Alias python=python3 <-- inside bash profile add this
 
  Control x to close
  Y for yes
